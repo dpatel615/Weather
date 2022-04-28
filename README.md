@@ -22,7 +22,8 @@ The following image shows the web application's appearance:
 
 
 https://github.com/dpatel615/Weather/blob/main/assets/img/Screen%20Shot%202022-04-27%20at%2010.14.56%20PM.png
-
-
+## Deployed Application Link
+The deployed GitHub page for this web application can be found: https://dpatel615.github.io/Weather/
+The GitHub repository for this web application can be found: https://github.com/dpatel615/Weather
 
 
